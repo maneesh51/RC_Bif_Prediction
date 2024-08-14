@@ -1,2 +1,3 @@
-# RC_Bif_Prediction
-contains source files and figures for the Multiparametric Bifuration Diagram predictions with RC
+# Multiparametric Bifurcation Diagram predictions with RC
+
+contains source files and figures for the Multiparametric Bifurcation Diagram predictions with RC
