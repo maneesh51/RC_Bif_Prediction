@@ -18,3 +18,8 @@ All the functions required to build the RC for multi-parametric predictions and 
 
 ## 3. Online executable code
 An online executable version of the code is also provided in the Python notebook format on [Google Colab](https://colab.research.google.com/drive/10z6Bs2C83DwtnomQdFChYKzzjCUIL0xi?usp=sharing)
+
+## 4. Specific Python libraries and their versions
+- **NetworkX:** version 2.8.4 (https://networkx.org/documentation/stable/release/release_2.8.4.html)
+- **Matplotlib:** version 3.8.0 (https://matplotlib.org/stable/users/prev_whats_new/whats_new_3.8.0.html)
+- **Scipy:** version 1.10.1 (https://docs.scipy.org/doc/scipy-1.10.1/)
