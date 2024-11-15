@@ -17,7 +17,7 @@ Mechanical systems exhibit diverse dynamics, ranging from harmonic oscillations 
 All the functions required to build the RC for multi-parametric predictions and to reproduce the manuscript results are present in `1.DufRC_1D_Reps_Figs1_2.py`. All the simulations can also be run using the Python notebook `1.DufRC_1D_Reps_Figs1_2.ipynb`.
 
 ## 3. Online executable code
-An online executable version of the code is also provided in the Python notebook format on [Google Colab](https://colab.research.google.com/drive/10z6Bs2C83DwtnomQdFChYKzzjCUIL0xi?usp=sharing)
+An online executable version of the code is also provided in the Python notebook format on [Google Colab](https://colab.research.google.com/drive/17e5DsD-99QcV8gnrsr4ZRwrxWXzqd_aq?usp=sharing)
 
 ## 4. Specific Python libraries and their versions
 - **NetworkX:** version 2.8.4 (https://networkx.org/documentation/stable/release/release_2.8.4.html)
