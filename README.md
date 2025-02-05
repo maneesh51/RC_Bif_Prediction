@@ -3,7 +3,7 @@
 
 - This repository contains source files and figures for the article **"Predicting multi-parametric dynamics of an externally forced oscillator using reservoir computing and minimal data"** submitted to Nonlinear Dynamics (Springer).
 - Authors: [Manish Yadav](https://www.tu.berlin/en/cpsme/about/team/manish-yadav), Swati Chauhan, Manish Dev Shrimali and [Merten Stender](https://www.tu.berlin/en/cpsme/about/management-and-administration)
-- The preprint of the manuscript is available on ArXiv: https://arxiv.org/abs/2408.14987
+- The article is published in Nonlinear Dynamics by Springer: https://link.springer.com/article/10.1007/s11071-024-10720-w
 
 <p align="center">
 <img src="https://github.com/maneesh51/RC_Bif_Prediction/blob/main/Figures/Fig1.png">
